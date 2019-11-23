@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_mako.mk
+    $(LOCAL_DIR)/magma_mako.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_mako-user \
-    lineage_mako-userdebug \
-    lineage_mako-eng
+    magma_mako-user \
+    magma_mako-userdebug \
+    magma_mako-eng

@@ -1,5 +1,5 @@
 # Inherit some common Magma stuff.
-$(call inherit-product, vendor/magma/config/common_mini_phone.mk)
+$(call inherit-product, vendor/magma/config/common_full_phone.mk)
 
 # Inherit from the common Open Source product configuration
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)

@@ -3,12 +3,12 @@
     "remote": "github",
     "repository": "voron00/proprietary_vendor_lge",
     "target_path": "vendor/lge",
-    "revision": "lineage-17.0"
+    "branch": "lineage-17.1"
   },
   {
     "remote": "github",
     "repository": "voron00/android_kernel_lge_mako",
     "target_path": "kernel/lge/mako",
-    "revision": "lineage-17.0"
+    "branch": "lineage-17.1"
   }
 ]
